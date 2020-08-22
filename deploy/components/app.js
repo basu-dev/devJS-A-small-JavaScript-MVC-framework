@@ -28,8 +28,7 @@ export const app={
         return `
         <div>
         <nav></nav>
-       <myForm></myForm>
-       <myForm></myForm>
+        <router></router>
 
     </div>
     `
