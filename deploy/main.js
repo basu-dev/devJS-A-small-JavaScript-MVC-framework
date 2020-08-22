@@ -2,7 +2,7 @@
 //thie app not mentioned here will not be the part of your project.
 //
 
-import { devJS } from "../../devJs/devJs.js";
+import { devJS } from "../devJs/devJs.js";
 import { Route } from "./routes.js";
 import {name} from "./components/name.js"
 import { detail } from "./components/detail.js";
