@@ -1,5 +1,5 @@
 
-import { Router } from "../devJs/router.js";
+import { Router } from "./devJs/router.js";
 
 export class Route extends Router{
 
